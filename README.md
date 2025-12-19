@@ -1,6 +1,6 @@
 # Engineering Portfolio
 
-This repository contains documentation of significant technical projects I've architected and led, demonstrating system-level thinking, architectural decision-making, and real-world problem-solving at scale. Each project represents substantial technical challenges solved under production constraints, with a focus on the reasoning behind decisions rather than just implementation details.
+This repository contains documentation on some of the significant technical projects I've architected and led, demonstrating system-level thinking, architectural decision-making, and real-world problem-solving at scale. Each project represents substantial technical challenges solved under production constraints, with a focus on the reasoning behind decisions rather than just implementation details.
 
 These documents showcase my approach to building complex systems: understanding constraints, evaluating trade-offs, making principled decisions, and learning from outcomes—both successes and failures.
 
