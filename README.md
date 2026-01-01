@@ -21,7 +21,7 @@ Architected and built a distributed monitoring system that aggregates device hea
 - Reduced false positive alert rate by over 90% through multi-stage filtering and correlation logic
 - Built protocol-agnostic monitoring layer supporting TCP, ICMP, and custom protocols with extensible architecture
 
-### [Order Fulfillment & Operations Management System](./order-fulfillment-system.md)
+### [Order Fulfillment & Operations Management System](./order-fulfillment-operations-management-system.md)
 
 Led migration and modernization of a legacy order fulfillment system serving high-volume e-commerce operations. Architected a new platform that integrated multiple third-party APIs, automated manual processes, and provided real-time visibility into fulfillment operations, resulting in significant operational efficiency gains.
 
